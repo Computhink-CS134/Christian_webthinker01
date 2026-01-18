@@ -1,6 +1,17 @@
 print("Hello from lesson 1")
 
+print("my name is ")
+
+print("christian")
+
+print("im 12 this year")
+
+print("My cca is Softball")
+
+print("if i had 2k i would by myself an iphone")
+
 ######### The below is the code required for task 2a ##########
+
 # print("1")
 # print("2")
 # print("3")
@@ -12,7 +23,7 @@ print("Hello from lesson 1")
 # print("9")
 # print("10")
 # print("11")
-# print("12")
+print("12")
 # print("13")
 # print("14")
 # print("15")
@@ -38,7 +49,7 @@ print("Hello from lesson 1")
 # print("March")
 # print("April")
 # print("May")
-# print("June")
+print("June")
 # print("July")
 # print("August")
 # print("September")
@@ -46,17 +57,7 @@ print("Hello from lesson 1")
 # print("November")
 # print("December")
 
-# print("2020")
-# print("2021")
-# print("2022")
-# print("2023")
-# print("2024")
-# print("2025")
-# print("2026")
-# print("2027")
-# print("2028")
-# print("2029")
-# print("2030")
+print("2014")
 
 ############## Below is the code for task 2b ##############
 print("1")
@@ -115,3 +116,28 @@ print("2027")
 print("2028")
 print("2029")
 print("2030")
+
+
+print("hello world")
+print("my favourite food is beef tongue")
+print("my birthday is on 12 June 2014")
+
+print("wake up")
+print("go toilet")
+print("brush teeth and pee")
+print("flush")
+print("go down")
+print("eat breakfast")
+print("go school")
+
+print("wake up and get out of bed")
+print("pour milk and cereal into a bowl")
+print("eat your breakfast")
+print("clean up your bowl and spoon")
+
+
+age = input("what is your age?")
+if int(age) < 18:
+    print("access denied")
+else:
+    print("welcome")
