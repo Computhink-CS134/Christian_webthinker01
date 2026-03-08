@@ -3,7 +3,6 @@ Snake Game - A classic pygame-based Snake game
 Controls: Arrow keys to move, SPACE to pause, Q to quit
 """
 
-import pygame
 import sys
 import random
 from enum import Enum
